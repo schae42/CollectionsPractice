@@ -1,0 +1,13 @@
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.exe
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.deps.json
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.runtimeconfig.json
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.runtimeconfig.dev.json
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.dll
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.pdb
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.csprojAssemblyReference.cache
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.AssemblyInfoInputs.cache
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.AssemblyInfo.cs
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.dll
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.pdb
+C:\Users\shrugs\OneDrive\Dojo_Assignment\JavaC#\Language_Fundamentals\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.genruntimeconfig.cache
